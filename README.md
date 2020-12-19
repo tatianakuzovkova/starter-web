@@ -4,7 +4,7 @@ This is a simple website project for showing how to use GIT. Okay, now more chan
 
 ## Introduction
 
-This example is and example.
+This example is and example. An emergency fix after stash
 
 ## Purpose
 
@@ -20,4 +20,4 @@ Please fork this repository and then issue pull request for review
 
 ## Copyright
 
-Git.Training.2020
+Git.Training.2020 All rights reserved

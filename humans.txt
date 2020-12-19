@@ -10,10 +10,10 @@
 # THANKS
 
 	to all my students
-	S
+	Please leave a review, if you like this course
     <name>
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    jQuery, Modernizr, Java
